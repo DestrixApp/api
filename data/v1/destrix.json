@@ -1,0 +1,31 @@
+{
+    "status": "operational",
+    "reroute_query_to": "none",
+    "domain_status": {
+        "destrix.app": "online",
+        "docs.destrix.app": "online",
+        "api.destrix.app": "online"
+    },
+
+    "v": {
+        "version": "0.1.2",
+        "updated": "27/4/23"
+    },
+
+    "social_media": {
+        "twitter": "@DestrixApp",
+        "youtube": "@DestrixApp",
+        "discord": "KbBSF2jwZf",
+        "github": "DestrixApp",
+        "patreon": "wolfite",
+        "trello": "hUQNecTH/destrix"
+    },
+    "social_media_verified": {
+        "twitter": false,
+        "youtube": false,
+        "discord": false,
+        "github": true,
+        "patreon": false,
+        "trello": false
+    }
+}
