@@ -4,7 +4,8 @@
     "domain_status": {
         "destrix.app": "online",
         "docs.destrix.app": "online",
-        "api.destrix.app": "online"
+        "api.destrix.app": "online",
+        "cdn.destrix.app": "offline"
     },
 
     "v": {
